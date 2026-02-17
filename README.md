@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is Brayden, a statistics student at BYU!
 
+I'm interested in all things Data Science! Currently I am using GitHub to work on several projects for work, classes, as well as posting to my personal blog! Follow me through my statistics and coding journey!
+
 <!-- 
 **BraydenHumpherys/BraydenHumpherys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
